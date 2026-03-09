@@ -1,4 +1,5 @@
 # go-gitignore
+[![run tests](https://github.com/wsand02/go-gitignore/actions/workflows/test.yml/badge.svg)](https://github.com/wsand02/go-gitignore/actions/workflows/test.yml)
 
 A gitignore parser for `Go`
 
